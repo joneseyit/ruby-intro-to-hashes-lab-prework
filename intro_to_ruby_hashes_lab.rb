@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  {:name => "Michael Jefferey Jordan"}
+  {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
